@@ -21,4 +21,6 @@ This project, titled "Computed Aided Surgery and Medical Robotics," focuses on d
 ## Images
 Images illustrating the system's components and workflow can be found in the repository's `images` folder.
 
-- Example: `![Tool Delivery System](images/tool_delivery_system_1.png)`
+- Example: 
+- `![Tool Delivery System](images/tool_delivery_system_1.png)`
+- `![Tool Delivery System](images/tool_delivery_system_2.png)`
