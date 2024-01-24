@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<arm>
+  <String name="arm" value="ts60-S1" />
+  <String name="tuning" value="" />
+  <String name="mount" value="floor" />
+  <String name="lengthAxis3" value="L200" />
+  <String name="diameterAxis3" value="D25" />
+  <FloatArray name="zeroOffset">
+    <Float index="0" value="0.0000000" />
+    <Float index="1" value="0.0000000" />
+    <Float index="2" value="0.0000000" />
+    <Float index="3" value="0.0000000" />
+  </FloatArray>
+  <FloatArray name="factoryMark">
+    <Float index="0" value="0.0000001" />
+    <Float index="1" value="0.0000000" />
+    <Float index="2" value="0.0000000" />
+    <Float index="3" value="0.0000000" />
+  </FloatArray>
+  <Bool name="userCabling" value="false" />
+</arm>

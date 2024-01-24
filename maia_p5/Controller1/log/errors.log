@@ -1,0 +1,789 @@
+﻿[12/15/23 15:34:17]: -----------------------------------------------
+[12/15/23 15:34:17]: Logger started
+[12/15/23 15:34:22]: Unknown event:Communication established
+[12/15/23 15:34:22]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/15/23 15:34:22]: Cycle time set to 0.004s
+[12/15/23 15:34:22]: Simulation cycle time set to 0.1s
+[12/15/23 15:34:22]: Controller IP address could not be updated
+[12/15/23 15:34:22]: STARC : No STARC board detected on PCI.
+[12/15/23 15:34:22]: Mcp = TSimulated
+[12/15/23 15:34:22]: Power shutdown delay set to 0 s
+[12/15/23 15:34:22]: Power hour count = 0:00:00
+[12/15/23 15:34:22]: Mac Address = fc-34-97-b5-ab-93
+[12/15/23 15:34:22]: COM-PC: server created on all interfaces [5653]
+[12/15/23 15:34:22]: Working mode:invalid.
+[12/15/23 15:34:22]: VAL3: s6.8 Feb  9 2010
+[12/15/23 15:34:22]: Option testMode: demo 
+[12/15/23 15:34:22]: Configuration Version: D24266415A 
+[12/15/23 15:34:22]: Machine Number: ? 
+[12/15/23 15:34:22]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[12/15/23 15:34:22]: Arm serial number: ? 
+[12/15/23 15:34:22]: EP: s6.8 Feb  3 2010
+[12/15/23 15:34:22]: SCA: s6.8 Feb  3 2010
+[12/15/23 15:34:22]: PLC: s6.8 Feb  3 2010
+[12/15/23 15:34:22]: New profile : default
+[12/15/23 15:34:22]: COM-PC: create session 127.0.0.1 on port 62518 id=#54257280
+[12/15/23 15:34:22]: Working mode:automatic.
+[12/15/23 15:34:23]: End of arm power shutdown phase.
+[12/15/23 15:34:43]: Working mode:manual.
+[12/15/23 15:34:45]: Settling arm power...
+[12/15/23 15:34:45]: Arm power settled.
+[12/15/23 15:34:46]: Unknown event:motion generator activated
+[12/15/23 15:34:49]: maia_p5 application started
+[12/15/23 15:34:49]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 15:35:08]: ERR 154 Invalid movement command: invalid destination point or mdesc.
+[12/15/23 15:35:23]: Unknown event:motion generator desactivated
+[12/15/23 15:35:23]: Arm power shutdown...
+[12/15/23 15:35:24]: End of arm power shutdown phase.
+[12/15/23 15:35:27]: Saving controller context...
+[12/15/23 15:35:27]: Controller temperature: 28°C
+[12/15/23 15:35:27]: CPU temperature: 28°C
+[12/15/23 15:35:45]: COM-PC: destroy session 127.0.0.1 on port 62518 id=#54257280
+[12/15/23 15:35:57]: COM-PC: create session 127.0.0.1 on port 62773 id=#54257696
+[12/15/23 15:36:35]: COM-PC: destroy session 127.0.0.1 on port 62773 id=#54257696
+[12/15/23 15:36:47]: maia_p5 application stopped
+[12/15/23 15:36:56]: Working mode:remote.
+[12/15/23 15:36:57]: Working mode:automatic.
+[12/15/23 15:37:02]: COM-PC: create session 127.0.0.1 on port 62923 id=#54256968
+[12/15/23 15:37:02]: Saving controller context...
+[12/15/23 15:38:50]: -----------------------------------------------
+[12/15/23 15:38:50]: Logger started
+[12/15/23 15:38:54]: Unknown event:Communication established
+[12/15/23 15:38:54]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/15/23 15:38:54]: Cycle time set to 0.004s
+[12/15/23 15:38:54]: Simulation cycle time set to 0.1s
+[12/15/23 15:38:54]: Controller IP address could not be updated
+[12/15/23 15:38:54]: STARC : No STARC board detected on PCI.
+[12/15/23 15:38:54]: Mcp = TSimulated
+[12/15/23 15:38:54]: Power shutdown delay set to 0 s
+[12/15/23 15:38:54]: Power hour count = 0:00:00
+[12/15/23 15:38:54]: Mac Address = fc-34-97-b5-ab-93
+[12/15/23 15:38:54]: COM-PC: server created on all interfaces [5653]
+[12/15/23 15:38:54]: VAL3: s6.8 Feb  9 2010
+[12/15/23 15:38:54]: Option testMode: demo 
+[12/15/23 15:38:54]: Configuration Version: D24266415A 
+[12/15/23 15:38:54]: Machine Number: ? 
+[12/15/23 15:38:54]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[12/15/23 15:38:54]: Arm serial number: ? 
+[12/15/23 15:38:54]: EP: s6.8 Feb  3 2010
+[12/15/23 15:38:54]: SCA: s6.8 Feb  3 2010
+[12/15/23 15:38:54]: PLC: s6.8 Feb  3 2010
+[12/15/23 15:38:54]: New profile : default
+[12/15/23 15:38:55]: Working mode:automatic.
+[12/15/23 15:38:55]: End of arm power shutdown phase.
+[12/15/23 15:38:56]: COM-PC: create session 127.0.0.1 on port 54783 id=#59278208
+[12/15/23 15:39:07]: Settling arm power...
+[12/15/23 15:39:08]: Arm power settled.
+[12/15/23 15:39:08]: Unknown event:motion generator activated
+[12/15/23 15:39:10]: maia_p5 application started
+[12/15/23 15:39:10]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 15:40:11]: Unknown event:motion generator desactivated
+[12/15/23 15:40:11]: Arm power shutdown...
+[12/15/23 15:40:12]: End of arm power shutdown phase.
+[12/15/23 15:40:14]: Saving controller context...
+[12/15/23 15:40:14]: Controller temperature: 28°C
+[12/15/23 15:40:14]: CPU temperature: 28°C
+[12/15/23 15:43:33]: -----------------------------------------------
+[12/15/23 15:43:33]: Logger started
+[12/15/23 15:43:38]: Unknown event:Communication established
+[12/15/23 15:43:38]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/15/23 15:43:38]: Cycle time set to 0.004s
+[12/15/23 15:43:38]: Simulation cycle time set to 0.1s
+[12/15/23 15:43:38]: Controller IP address could not be updated
+[12/15/23 15:43:38]: STARC : No STARC board detected on PCI.
+[12/15/23 15:43:38]: Mcp = TSimulated
+[12/15/23 15:43:38]: Power shutdown delay set to 0 s
+[12/15/23 15:43:38]: Power hour count = 0:00:00
+[12/15/23 15:43:38]: Mac Address = fc-34-97-b5-ab-93
+[12/15/23 15:43:38]: COM-PC: server created on all interfaces [5653]
+[12/15/23 15:43:38]: Working mode:invalid.
+[12/15/23 15:43:38]: COM-PC: create session 127.0.0.1 on port 55254 id=#59243328
+[12/15/23 15:43:38]: VAL3: s6.8 Feb  9 2010
+[12/15/23 15:43:38]: Option testMode: demo 
+[12/15/23 15:43:38]: Configuration Version: D24266415A 
+[12/15/23 15:43:38]: Machine Number: ? 
+[12/15/23 15:43:38]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[12/15/23 15:43:38]: Arm serial number: ? 
+[12/15/23 15:43:38]: EP: s6.8 Feb  3 2010
+[12/15/23 15:43:38]: SCA: s6.8 Feb  3 2010
+[12/15/23 15:43:38]: PLC: s6.8 Feb  3 2010
+[12/15/23 15:43:38]: New profile : default
+[12/15/23 15:43:38]: Working mode:automatic.
+[12/15/23 15:43:39]: End of arm power shutdown phase.
+[12/15/23 15:43:55]: COM-PC: destroy session 127.0.0.1 on port 55254 id=#59243328
+[12/15/23 15:43:58]: Settling arm power...
+[12/15/23 15:43:59]: Arm power settled.
+[12/15/23 15:43:59]: Unknown event:motion generator activated
+[12/15/23 15:44:01]: COM-PC: create session 127.0.0.1 on port 55259 id=#59243744
+[12/15/23 15:44:07]: maia_p5 application started
+[12/15/23 15:44:07]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 15:45:07]: Unknown event:motion generator desactivated
+[12/15/23 15:45:07]: Arm power shutdown...
+[12/15/23 15:45:09]: End of arm power shutdown phase.
+[12/15/23 15:45:10]: Saving controller context...
+[12/15/23 15:45:10]: Controller temperature: 28°C
+[12/15/23 15:45:10]: CPU temperature: 28°C
+[12/15/23 15:57:19]: -----------------------------------------------
+[12/15/23 15:57:19]: Logger started
+[12/15/23 15:57:23]: Unknown event:Communication established
+[12/15/23 15:57:23]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/15/23 15:57:23]: Cycle time set to 0.004s
+[12/15/23 15:57:23]: Simulation cycle time set to 0.1s
+[12/15/23 15:57:23]: Controller IP address could not be updated
+[12/15/23 15:57:23]: STARC : No STARC board detected on PCI.
+[12/15/23 15:57:23]: Mcp = TSimulated
+[12/15/23 15:57:23]: Power shutdown delay set to 0 s
+[12/15/23 15:57:23]: Power hour count = 0:00:00
+[12/15/23 15:57:23]: Mac Address = fc-34-97-b5-ab-93
+[12/15/23 15:57:23]: COM-PC: server created on all interfaces [5653]
+[12/15/23 15:57:23]: VAL3: s6.8 Feb  9 2010
+[12/15/23 15:57:23]: Option testMode: demo 
+[12/15/23 15:57:23]: Configuration Version: D24266415A 
+[12/15/23 15:57:23]: Machine Number: ? 
+[12/15/23 15:57:23]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[12/15/23 15:57:23]: Arm serial number: ? 
+[12/15/23 15:57:23]: EP: s6.8 Feb  3 2010
+[12/15/23 15:57:23]: SCA: s6.8 Feb  3 2010
+[12/15/23 15:57:23]: PLC: s6.8 Feb  3 2010
+[12/15/23 15:57:23]: New profile : default
+[12/15/23 15:57:23]: COM-PC: create session 127.0.0.1 on port 55578 id=#58681648
+[12/15/23 15:57:23]: Working mode:automatic.
+[12/15/23 15:57:24]: End of arm power shutdown phase.
+[12/15/23 15:57:39]: Settling arm power...
+[12/15/23 15:57:40]: Arm power settled.
+[12/15/23 15:57:40]: Unknown event:motion generator activated
+[12/15/23 15:57:43]: maia_p5 application started
+[12/15/23 15:57:43]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 15:58:49]: Unknown event:motion generator desactivated
+[12/15/23 15:58:49]: Arm power shutdown...
+[12/15/23 15:58:50]: End of arm power shutdown phase.
+[12/15/23 15:58:52]: maia_p5 application stopped
+[12/15/23 15:58:53]: Saving controller context...
+[12/15/23 15:58:53]: Controller temperature: 28°C
+[12/15/23 15:58:53]: CPU temperature: 28°C
+[12/15/23 17:24:05]: -----------------------------------------------
+[12/15/23 17:24:05]: Logger started
+[12/15/23 17:24:09]: Unknown event:Communication established
+[12/15/23 17:24:09]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/15/23 17:24:09]: Cycle time set to 0.004s
+[12/15/23 17:24:09]: Simulation cycle time set to 0.1s
+[12/15/23 17:24:09]: Controller IP address could not be updated
+[12/15/23 17:24:09]: STARC : No STARC board detected on PCI.
+[12/15/23 17:24:09]: Mcp = TSimulated
+[12/15/23 17:24:09]: Power shutdown delay set to 0 s
+[12/15/23 17:24:09]: Power hour count = 0:00:00
+[12/15/23 17:24:09]: Mac Address = fc-34-97-b5-ab-93
+[12/15/23 17:24:09]: COM-PC: server created on all interfaces [5653]
+[12/15/23 17:24:09]: Working mode:invalid.
+[12/15/23 17:24:09]: VAL3: s6.8 Feb  9 2010
+[12/15/23 17:24:09]: Option testMode: demo 
+[12/15/23 17:24:09]: Configuration Version: D24266415A 
+[12/15/23 17:24:09]: Machine Number: ? 
+[12/15/23 17:24:09]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[12/15/23 17:24:09]: Arm serial number: ? 
+[12/15/23 17:24:09]: EP: s6.8 Feb  3 2010
+[12/15/23 17:24:09]: SCA: s6.8 Feb  3 2010
+[12/15/23 17:24:09]: PLC: s6.8 Feb  3 2010
+[12/15/23 17:24:09]: New profile : default
+[12/15/23 17:24:10]: COM-PC: create session 127.0.0.1 on port 63697 id=#59807008
+[12/15/23 17:24:10]: Working mode:automatic.
+[12/15/23 17:24:10]: End of arm power shutdown phase.
+[12/15/23 17:24:34]: Settling arm power...
+[12/15/23 17:24:34]: Arm power settled.
+[12/15/23 17:24:34]: Unknown event:motion generator activated
+[12/15/23 17:24:36]: maia_p5 application started
+[12/15/23 17:24:36]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 17:26:08]: Unknown event:motion generator desactivated
+[12/15/23 17:26:09]: Arm power shutdown...
+[12/15/23 17:26:10]: End of arm power shutdown phase.
+[12/15/23 17:26:49]: -----------------------------------------------
+[12/15/23 17:26:49]: Logger started
+[12/15/23 17:26:53]: Unknown event:Communication established
+[12/15/23 17:26:53]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/15/23 17:26:53]: Cycle time set to 0.004s
+[12/15/23 17:26:53]: Simulation cycle time set to 0.1s
+[12/15/23 17:26:53]: Controller IP address could not be updated
+[12/15/23 17:26:53]: STARC : No STARC board detected on PCI.
+[12/15/23 17:26:53]: Mcp = TSimulated
+[12/15/23 17:26:53]: Power shutdown delay set to 0 s
+[12/15/23 17:26:53]: Power hour count = 0:00:00
+[12/15/23 17:26:53]: Mac Address = fc-34-97-b5-ab-93
+[12/15/23 17:26:53]: COM-PC: server created on all interfaces [5653]
+[12/15/23 17:26:53]: VAL3: s6.8 Feb  9 2010
+[12/15/23 17:26:53]: Option testMode: demo 
+[12/15/23 17:26:53]: Configuration Version: D24266415A 
+[12/15/23 17:26:53]: Machine Number: ? 
+[12/15/23 17:26:53]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[12/15/23 17:26:53]: Arm serial number: ? 
+[12/15/23 17:26:53]: EP: s6.8 Feb  3 2010
+[12/15/23 17:26:53]: SCA: s6.8 Feb  3 2010
+[12/15/23 17:26:53]: PLC: s6.8 Feb  3 2010
+[12/15/23 17:26:53]: New profile : default
+[12/15/23 17:26:53]: COM-PC: create session 127.0.0.1 on port 63720 id=#49854056
+[12/15/23 17:26:54]: Working mode:automatic.
+[12/15/23 17:26:54]: End of arm power shutdown phase.
+[12/15/23 17:27:04]: Settling arm power...
+[12/15/23 17:27:04]: Arm power settled.
+[12/15/23 17:27:05]: Unknown event:motion generator activated
+[12/15/23 17:27:06]: maia_p5 application started
+[12/15/23 17:27:06]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 17:27:30]: ERR 154 Invalid movement command: invalid destination point or mdesc.
+[12/15/23 17:27:51]: MCP communication disconnected
+[12/15/23 17:32:29]: -----------------------------------------------
+[12/15/23 17:32:29]: Logger started
+[12/15/23 17:32:33]: Unknown event:Communication established
+[12/15/23 17:32:34]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/15/23 17:32:34]: Cycle time set to 0.004s
+[12/15/23 17:32:34]: Simulation cycle time set to 0.1s
+[12/15/23 17:32:34]: Controller IP address could not be updated
+[12/15/23 17:32:34]: STARC : No STARC board detected on PCI.
+[12/15/23 17:32:34]: Mcp = TSimulated
+[12/15/23 17:32:34]: Power shutdown delay set to 0 s
+[12/15/23 17:32:34]: Power hour count = 0:00:00
+[12/15/23 17:32:34]: Mac Address = fc-34-97-b5-ab-93
+[12/15/23 17:32:34]: COM-PC: server created on all interfaces [5653]
+[12/15/23 17:32:34]: COM-PC: create session 127.0.0.1 on port 55080 id=#58301032
+[12/15/23 17:32:34]: VAL3: s6.8 Feb  9 2010
+[12/15/23 17:32:34]: Option testMode: demo 
+[12/15/23 17:32:34]: Configuration Version: D24266415A 
+[12/15/23 17:32:34]: Machine Number: ? 
+[12/15/23 17:32:34]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[12/15/23 17:32:34]: Arm serial number: ? 
+[12/15/23 17:32:34]: EP: s6.8 Feb  3 2010
+[12/15/23 17:32:34]: SCA: s6.8 Feb  3 2010
+[12/15/23 17:32:34]: PLC: s6.8 Feb  3 2010
+[12/15/23 17:32:34]: New profile : default
+[12/15/23 17:32:34]: Working mode:automatic.
+[12/15/23 17:32:35]: End of arm power shutdown phase.
+[12/15/23 17:32:44]: Settling arm power...
+[12/15/23 17:32:44]: Arm power settled.
+[12/15/23 17:32:44]: Unknown event:motion generator activated
+[12/15/23 17:32:45]: maia_p5 application started
+[12/15/23 17:32:46]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 17:33:05]: ERR 154 Invalid movement command: invalid destination point or mdesc.
+[12/15/23 17:33:13]: Unknown event:motion generator desactivated
+[12/15/23 17:33:13]: Arm power shutdown...
+[12/15/23 17:33:14]: End of arm power shutdown phase.
+[12/15/23 17:33:16]: Saving controller context...
+[12/15/23 17:33:16]: Controller temperature: 28°C
+[12/15/23 17:33:16]: CPU temperature: 28°C
+[12/15/23 17:33:47]: COM-PC: destroy session 127.0.0.1 on port 55080 id=#58301032
+[12/15/23 17:35:15]: COM-PC: create session 127.0.0.1 on port 55177 id=#58299472
+[12/15/23 17:35:37]: COM-PC: destroy session 127.0.0.1 on port 55177 id=#58299472
+[12/15/23 18:07:24]: -----------------------------------------------
+[12/15/23 18:07:24]: Logger started
+[12/15/23 18:07:28]: Unknown event:Communication established
+[12/15/23 18:07:28]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/15/23 18:07:28]: Cycle time set to 0.004s
+[12/15/23 18:07:28]: Simulation cycle time set to 0.1s
+[12/15/23 18:07:28]: Controller IP address could not be updated
+[12/15/23 18:07:28]: STARC : No STARC board detected on PCI.
+[12/15/23 18:07:28]: Mcp = TSimulated
+[12/15/23 18:07:28]: Power shutdown delay set to 0 s
+[12/15/23 18:07:28]: Power hour count = 0:00:00
+[12/15/23 18:07:28]: Mac Address = fc-34-97-b5-ab-93
+[12/15/23 18:07:28]: COM-PC: server created on all interfaces [5653]
+[12/15/23 18:07:28]: VAL3: s6.8 Feb  9 2010
+[12/15/23 18:07:28]: Option testMode: demo 
+[12/15/23 18:07:28]: Configuration Version: D24266415A 
+[12/15/23 18:07:28]: Machine Number: ? 
+[12/15/23 18:07:28]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[12/15/23 18:07:28]: Arm serial number: ? 
+[12/15/23 18:07:28]: EP: s6.8 Feb  3 2010
+[12/15/23 18:07:28]: SCA: s6.8 Feb  3 2010
+[12/15/23 18:07:28]: PLC: s6.8 Feb  3 2010
+[12/15/23 18:07:28]: New profile : default
+[12/15/23 18:07:28]: COM-PC: create session 127.0.0.1 on port 55578 id=#59463048
+[12/15/23 18:07:28]: Working mode:automatic.
+[12/15/23 18:07:29]: End of arm power shutdown phase.
+[12/15/23 18:07:35]: Settling arm power...
+[12/15/23 18:07:35]: Arm power settled.
+[12/15/23 18:07:35]: Unknown event:motion generator activated
+[12/15/23 18:07:39]: maia_p5 application started
+[12/15/23 18:07:39]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 18:08:13]: Unknown event:motion generator desactivated
+[12/15/23 18:08:14]: Arm power shutdown...
+[12/15/23 18:08:15]: End of arm power shutdown phase.
+[12/15/23 18:08:18]: Saving controller context...
+[12/15/23 18:08:18]: Controller temperature: 28°C
+[12/15/23 18:08:18]: CPU temperature: 28°C
+[12/15/23 18:08:34]: COM-PC: destroy session 127.0.0.1 on port 55578 id=#59463048
+[12/15/23 18:19:58]: COM-PC: create session 127.0.0.1 on port 56108 id=#59462008
+[12/15/23 18:20:01]: Settling arm power...
+[12/15/23 18:20:01]: Arm power settled.
+[12/15/23 18:20:02]: Unknown event:cannot activate motion generator
+[12/15/23 18:20:02]: Manual motion mode:Connect
+[12/15/23 18:20:02]: Unknown event:motion generator activated
+[12/15/23 18:20:21]: maia_p5 application stopped
+[12/15/23 18:20:21]: Manual motion mode:Disabled
+[12/15/23 18:20:21]: End of connection move.
+[12/15/23 18:20:21]: Unknown event:motion generator desactivated
+[12/15/23 18:20:21]: Unknown event:motion generator activated
+[12/15/23 18:20:27]: maia_p5 application started
+[12/15/23 18:20:28]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 18:20:59]: Unknown event:motion generator desactivated
+[12/15/23 18:20:59]: Arm power shutdown...
+[12/15/23 18:21:00]: End of arm power shutdown phase.
+[12/15/23 18:21:03]: Saving controller context...
+[12/15/23 18:21:28]: -----------------------------------------------
+[12/15/23 18:21:28]: Logger started
+[12/15/23 18:21:33]: Unknown event:Communication established
+[12/15/23 18:21:33]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/15/23 18:21:33]: Cycle time set to 0.004s
+[12/15/23 18:21:33]: Simulation cycle time set to 0.1s
+[12/15/23 18:21:33]: Controller IP address could not be updated
+[12/15/23 18:21:33]: STARC : No STARC board detected on PCI.
+[12/15/23 18:21:33]: Mcp = TSimulated
+[12/15/23 18:21:33]: Power shutdown delay set to 0 s
+[12/15/23 18:21:33]: Power hour count = 0:00:00
+[12/15/23 18:21:33]: Mac Address = fc-34-97-b5-ab-93
+[12/15/23 18:21:33]: COM-PC: server created on all interfaces [5653]
+[12/15/23 18:21:33]: VAL3: s6.8 Feb  9 2010
+[12/15/23 18:21:33]: Option testMode: demo 
+[12/15/23 18:21:33]: Configuration Version: D24266415A 
+[12/15/23 18:21:33]: Machine Number: ? 
+[12/15/23 18:21:33]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[12/15/23 18:21:33]: Arm serial number: ? 
+[12/15/23 18:21:33]: EP: s6.8 Feb  3 2010
+[12/15/23 18:21:33]: SCA: s6.8 Feb  3 2010
+[12/15/23 18:21:33]: PLC: s6.8 Feb  3 2010
+[12/15/23 18:21:33]: New profile : default
+[12/15/23 18:21:33]: Working mode:automatic.
+[12/15/23 18:21:34]: End of arm power shutdown phase.
+[12/15/23 18:21:35]: COM-PC: create session 127.0.0.1 on port 56120 id=#58417640
+[12/15/23 18:21:49]: Settling arm power...
+[12/15/23 18:21:50]: Arm power settled.
+[12/15/23 18:21:50]: Unknown event:motion generator activated
+[12/15/23 18:21:56]: maia_p5 application started
+[12/15/23 18:21:56]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 18:22:34]: Unknown event:motion generator desactivated
+[12/15/23 18:22:34]: Arm power shutdown...
+[12/15/23 18:22:35]: End of arm power shutdown phase.
+[12/15/23 18:22:38]: Saving controller context...
+[12/15/23 18:22:38]: Controller temperature: 28°C
+[12/15/23 18:22:38]: CPU temperature: 28°C
+[12/15/23 18:29:28]: -----------------------------------------------
+[12/15/23 18:29:28]: Logger started
+[12/15/23 18:29:32]: Unknown event:Communication established
+[12/15/23 18:29:32]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/15/23 18:29:32]: Cycle time set to 0.004s
+[12/15/23 18:29:32]: Simulation cycle time set to 0.1s
+[12/15/23 18:29:32]: Controller IP address could not be updated
+[12/15/23 18:29:32]: STARC : No STARC board detected on PCI.
+[12/15/23 18:29:32]: Mcp = TSimulated
+[12/15/23 18:29:32]: Power shutdown delay set to 0 s
+[12/15/23 18:29:32]: Power hour count = 0:00:00
+[12/15/23 18:29:32]: Mac Address = fc-34-97-b5-ab-93
+[12/15/23 18:29:32]: COM-PC: server created on all interfaces [5653]
+[12/15/23 18:29:32]: COM-PC: create session 127.0.0.1 on port 56163 id=#54650904
+[12/15/23 18:29:32]: VAL3: s6.8 Feb  9 2010
+[12/15/23 18:29:32]: Option testMode: demo 
+[12/15/23 18:29:32]: Configuration Version: D24266415A 
+[12/15/23 18:29:32]: Machine Number: ? 
+[12/15/23 18:29:32]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[12/15/23 18:29:32]: Arm serial number: ? 
+[12/15/23 18:29:32]: EP: s6.8 Feb  3 2010
+[12/15/23 18:29:32]: SCA: s6.8 Feb  3 2010
+[12/15/23 18:29:32]: PLC: s6.8 Feb  3 2010
+[12/15/23 18:29:32]: New profile : default
+[12/15/23 18:29:32]: Working mode:automatic.
+[12/15/23 18:29:33]: End of arm power shutdown phase.
+[12/15/23 18:29:42]: Settling arm power...
+[12/15/23 18:29:43]: Arm power settled.
+[12/15/23 18:29:43]: Unknown event:motion generator activated
+[12/15/23 18:29:46]: maia_p5 application started
+[12/15/23 18:29:46]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 18:30:18]: Unknown event:motion generator desactivated
+[12/15/23 18:30:19]: Arm power shutdown...
+[12/15/23 18:30:20]: End of arm power shutdown phase.
+[12/15/23 18:30:22]: Saving controller context...
+[12/15/23 18:30:22]: Controller temperature: 28°C
+[12/15/23 18:30:22]: CPU temperature: 28°C
+[12/15/23 18:30:35]: COM-PC: destroy session 127.0.0.1 on port 56163 id=#54650904
+[12/15/23 18:30:42]: COM-PC: create session 127.0.0.1 on port 56180 id=#54649552
+[12/15/23 18:30:45]: Settling arm power...
+[12/15/23 18:30:46]: Arm power settled.
+[12/15/23 18:30:46]: Unknown event:cannot activate motion generator
+[12/15/23 18:30:46]: Manual motion mode:Connect
+[12/15/23 18:30:46]: Unknown event:motion generator activated
+[12/15/23 18:30:49]: maia_p5 application stopped
+[12/15/23 18:30:49]: Manual motion mode:Disabled
+[12/15/23 18:30:49]: End of connection move.
+[12/15/23 18:30:49]: Unknown event:motion generator desactivated
+[12/15/23 18:30:49]: Unknown event:motion generator activated
+[12/15/23 18:30:51]: maia_p5 application started
+[12/15/23 18:30:51]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 18:35:41]: maia_p5 application stopped
+[12/15/23 18:36:35]: maia_p5 application started
+[12/15/23 18:36:35]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 18:40:17]: Unknown event:motion generator desactivated
+[12/15/23 18:40:18]: Arm power shutdown...
+[12/15/23 18:40:19]: End of arm power shutdown phase.
+[12/15/23 18:44:20]: -----------------------------------------------
+[12/15/23 18:44:20]: Logger started
+[12/15/23 18:44:25]: Unknown event:Communication established
+[12/15/23 18:44:26]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/15/23 18:44:26]: Cycle time set to 0.004s
+[12/15/23 18:44:26]: Simulation cycle time set to 0.1s
+[12/15/23 18:44:26]: Controller IP address could not be updated
+[12/15/23 18:44:26]: STARC : No STARC board detected on PCI.
+[12/15/23 18:44:26]: Mcp = TSimulated
+[12/15/23 18:44:26]: Power shutdown delay set to 0 s
+[12/15/23 18:44:26]: Power hour count = 0:00:00
+[12/15/23 18:44:26]: Mac Address = 24-41-8c-e4-df-bd
+[12/15/23 18:44:26]: Working mode:invalid.
+[12/15/23 18:44:26]: COM-PC: server created on all interfaces [5653]
+[12/15/23 18:44:26]: VAL3: s6.8 Feb  9 2010
+[12/15/23 18:44:26]: Option testMode: demo 
+[12/15/23 18:44:26]: Configuration Version: D24266415A 
+[12/15/23 18:44:26]: Machine Number: ? 
+[12/15/23 18:44:26]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[12/15/23 18:44:26]: Arm serial number: ? 
+[12/15/23 18:44:26]: EP: s6.8 Feb  3 2010
+[12/15/23 18:44:26]: SCA: s6.8 Feb  3 2010
+[12/15/23 18:44:26]: PLC: s6.8 Feb  3 2010
+[12/15/23 18:44:26]: New profile : default
+[12/15/23 18:44:26]: End of arm power shutdown phase.
+[12/15/23 18:44:26]: COM-PC: create session 127.0.0.1 on port 55505 id=#43701824
+[12/15/23 18:44:26]: Working mode:automatic.
+[12/15/23 18:44:48]: Settling arm power...
+[12/15/23 18:44:49]: Arm power settled.
+[12/15/23 18:44:49]: Unknown event:motion generator activated
+[12/15/23 18:44:51]: maia_p5 application started
+[12/15/23 18:44:51]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 18:46:42]: Cannot complete move: destination is out of reach.(out of software joint limits)
+[12/15/23 18:46:42]: Cannot complete move: destination is out of reach.(out of software joint limits) (1)
+[12/15/23 18:46:43]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[12/15/23 18:47:13]: MCP communication disconnected
+[12/15/23 18:47:13]: Arm power shutdown: working mode change.
+[12/15/23 18:47:13]: Arm power shutdown...
+[12/15/23 18:47:13]: Unknown event:motion generator desactivated
+[12/15/23 18:47:14]: End of arm power shutdown phase.
+[12/15/23 18:47:15]: Saving controller context...
+[12/15/23 18:47:16]: Controller temperature: 28°C
+[12/15/23 18:47:16]: CPU temperature: 28°C
+[12/15/23 18:47:17]: COM-PC: destroy session 127.0.0.1 on port 55505 id=#43701824
+[12/15/23 18:48:17]: -----------------------------------------------
+[12/15/23 18:48:17]: Logger started
+[12/15/23 18:48:21]: Unknown event:Communication established
+[12/15/23 18:48:21]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/15/23 18:48:21]: Cycle time set to 0.004s
+[12/15/23 18:48:21]: Simulation cycle time set to 0.1s
+[12/15/23 18:48:21]: Controller IP address could not be updated
+[12/15/23 18:48:21]: STARC : No STARC board detected on PCI.
+[12/15/23 18:48:21]: Mcp = TSimulated
+[12/15/23 18:48:21]: Power shutdown delay set to 0 s
+[12/15/23 18:48:21]: Power hour count = 0:00:00
+[12/15/23 18:48:21]: Mac Address = fc-34-97-b5-ab-93
+[12/15/23 18:48:21]: COM-PC: server created on all interfaces [5653]
+[12/15/23 18:48:21]: VAL3: s6.8 Feb  9 2010
+[12/15/23 18:48:21]: Option testMode: demo 
+[12/15/23 18:48:21]: Configuration Version: D24266415A 
+[12/15/23 18:48:21]: Machine Number: ? 
+[12/15/23 18:48:21]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[12/15/23 18:48:21]: Arm serial number: ? 
+[12/15/23 18:48:21]: EP: s6.8 Feb  3 2010
+[12/15/23 18:48:21]: SCA: s6.8 Feb  3 2010
+[12/15/23 18:48:21]: PLC: s6.8 Feb  3 2010
+[12/15/23 18:48:21]: New profile : default
+[12/15/23 18:48:22]: COM-PC: create session 127.0.0.1 on port 56359 id=#59232728
+[12/15/23 18:48:22]: Working mode:automatic.
+[12/15/23 18:48:22]: End of arm power shutdown phase.
+[12/15/23 18:48:29]: Settling arm power...
+[12/15/23 18:48:30]: Arm power settled.
+[12/15/23 18:48:30]: Unknown event:motion generator activated
+[12/15/23 18:48:34]: maia_p5 application started
+[12/15/23 18:48:34]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/15/23 18:50:03]: Cannot complete move: destination is out of reach.(out of software joint limits)
+[12/15/23 18:50:03]: Cannot complete move: destination is out of reach.(out of software joint limits) (1)
+[12/15/23 18:50:03]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[12/15/23 19:06:10]: COM-PC: destroy session 127.0.0.1 on port 56359 id=#59232728
+[01/02/24 19:44:01]: -----------------------------------------------
+[01/02/24 19:44:01]: Logger started
+[01/02/24 19:44:05]: Unknown event:Communication established
+[01/02/24 19:44:06]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/02/24 19:44:06]: Cycle time set to 0.004s
+[01/02/24 19:44:06]: Simulation cycle time set to 0.1s
+[01/02/24 19:44:06]: Controller IP address could not be updated
+[01/02/24 19:44:06]: STARC : No STARC board detected on PCI.
+[01/02/24 19:44:06]: Mcp = TSimulated
+[01/02/24 19:44:06]: Power shutdown delay set to 0 s
+[01/02/24 19:44:06]: Power hour count = 0:00:00
+[01/02/24 19:44:06]: Mac Address = 24-41-8c-e4-df-bd
+[01/02/24 19:44:06]: Working mode:invalid.
+[01/02/24 19:44:06]: COM-PC: server created on all interfaces [5653]
+[01/02/24 19:44:06]: VAL3: s6.8 Feb  9 2010
+[01/02/24 19:44:06]: Option testMode: demo 
+[01/02/24 19:44:06]: Configuration Version: D24266415A 
+[01/02/24 19:44:06]: Machine Number: ? 
+[01/02/24 19:44:06]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[01/02/24 19:44:06]: Arm serial number: ? 
+[01/02/24 19:44:06]: EP: s6.8 Feb  3 2010
+[01/02/24 19:44:06]: SCA: s6.8 Feb  3 2010
+[01/02/24 19:44:06]: PLC: s6.8 Feb  3 2010
+[01/02/24 19:44:06]: New profile : default
+[01/02/24 19:44:06]: COM-PC: create session 127.0.0.1 on port 51107 id=#60208096
+[01/02/24 19:44:06]: End of arm power shutdown phase.
+[01/02/24 19:44:07]: Working mode:automatic.
+[01/02/24 19:44:14]: Settling arm power...
+[01/02/24 19:44:14]: Arm power settled.
+[01/02/24 19:44:15]: Unknown event:motion generator activated
+[01/02/24 19:44:37]: maia_p5 application started
+[01/02/24 19:44:37]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[01/02/24 19:46:37]: maia_p5 application stopped
+[01/02/24 19:46:42]: Unknown event:motion generator desactivated
+[01/02/24 19:46:42]: Arm power shutdown...
+[01/02/24 19:46:43]: End of arm power shutdown phase.
+[01/02/24 19:46:46]: Saving controller context...
+[01/02/24 19:46:46]: Controller temperature: 28°C
+[01/02/24 19:46:46]: CPU temperature: 28°C
+[01/02/24 19:47:04]: COM-PC: destroy session 127.0.0.1 on port 51107 id=#60208096
+[01/02/24 19:58:03]: -----------------------------------------------
+[01/02/24 19:58:03]: Logger started
+[01/02/24 19:58:07]: Unknown event:Communication established
+[01/02/24 19:58:08]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/02/24 19:58:08]: Cycle time set to 0.004s
+[01/02/24 19:58:08]: Simulation cycle time set to 0.1s
+[01/02/24 19:58:08]: Controller IP address could not be updated
+[01/02/24 19:58:08]: STARC : No STARC board detected on PCI.
+[01/02/24 19:58:08]: Mcp = TSimulated
+[01/02/24 19:58:08]: Power shutdown delay set to 0 s
+[01/02/24 19:58:08]: Power hour count = 0:00:00
+[01/02/24 19:58:08]: Mac Address = 24-41-8c-e4-df-bd
+[01/02/24 19:58:08]: COM-PC: server created on all interfaces [5653]
+[01/02/24 19:58:08]: VAL3: s6.8 Feb  9 2010
+[01/02/24 19:58:08]: Option testMode: demo 
+[01/02/24 19:58:08]: Configuration Version: D24266415A 
+[01/02/24 19:58:08]: Machine Number: ? 
+[01/02/24 19:58:08]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[01/02/24 19:58:08]: Arm serial number: ? 
+[01/02/24 19:58:08]: EP: s6.8 Feb  3 2010
+[01/02/24 19:58:08]: SCA: s6.8 Feb  3 2010
+[01/02/24 19:58:08]: PLC: s6.8 Feb  3 2010
+[01/02/24 19:58:08]: New profile : default
+[01/02/24 19:58:08]: Working mode:automatic.
+[01/02/24 19:58:09]: End of arm power shutdown phase.
+[01/02/24 19:58:12]: COM-PC: create session 127.0.0.1 on port 60215 id=#59750288
+[01/02/24 19:58:20]: Saving controller context...
+[01/02/24 19:58:20]: Controller temperature: 28°C
+[01/02/24 19:58:20]: CPU temperature: 28°C
+[01/02/24 19:58:20]: Settling arm power...
+[01/02/24 19:58:21]: Arm power settled.
+[01/02/24 19:58:21]: Unknown event:motion generator activated
+[01/02/24 19:58:29]: maia_p5 application started
+[01/02/24 19:58:29]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[01/02/24 19:59:18]: maia_p5 application stopped
+[01/02/24 20:01:46]: maia_p5 application started
+[01/02/24 20:01:46]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[01/02/24 20:02:10]: MCP communication disconnected
+[01/02/24 20:02:10]: Arm power shutdown: working mode change.
+[01/02/24 20:02:10]: Arm power shutdown...
+[01/02/24 20:02:10]: Unknown event:motion generator desactivated
+[01/02/24 20:02:11]: End of arm power shutdown phase.
+[01/02/24 20:02:13]: Saving controller context...
+[01/02/24 20:02:19]: -----------------------------------------------
+[01/02/24 20:02:19]: Logger started
+[01/02/24 20:02:23]: Unknown event:Communication established
+[01/02/24 20:02:23]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/02/24 20:02:23]: Cycle time set to 0.004s
+[01/02/24 20:02:23]: Simulation cycle time set to 0.1s
+[01/02/24 20:02:23]: Controller IP address could not be updated
+[01/02/24 20:02:23]: STARC : No STARC board detected on PCI.
+[01/02/24 20:02:23]: Mcp = TSimulated
+[01/02/24 20:02:23]: Power shutdown delay set to 0 s
+[01/02/24 20:02:23]: Power hour count = 0:00:00
+[01/02/24 20:02:23]: Mac Address = 24-41-8c-e4-df-bd
+[01/02/24 20:02:23]: COM-PC: server created on all interfaces [5653]
+[01/02/24 20:02:23]: COM-PC: create session 127.0.0.1 on port 60802 id=#50321840
+[01/02/24 20:02:23]: VAL3: s6.8 Feb  9 2010
+[01/02/24 20:02:23]: Option testMode: demo 
+[01/02/24 20:02:23]: Configuration Version: D24266415A 
+[01/02/24 20:02:23]: Machine Number: ? 
+[01/02/24 20:02:23]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[01/02/24 20:02:23]: Arm serial number: ? 
+[01/02/24 20:02:23]: EP: s6.8 Feb  3 2010
+[01/02/24 20:02:23]: SCA: s6.8 Feb  3 2010
+[01/02/24 20:02:23]: PLC: s6.8 Feb  3 2010
+[01/02/24 20:02:23]: New profile : default
+[01/02/24 20:02:24]: Working mode:automatic.
+[01/02/24 20:02:24]: End of arm power shutdown phase.
+[01/02/24 20:02:35]: Settling arm power...
+[01/02/24 20:02:35]: Arm power settled.
+[01/02/24 20:02:36]: Unknown event:motion generator activated
+[01/02/24 20:02:39]: maia_p5 application started
+[01/02/24 20:02:39]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[01/02/24 20:03:17]: maia_p5 application stopped
+[01/02/24 20:03:55]: MCP communication disconnected
+[01/02/24 20:05:05]: -----------------------------------------------
+[01/02/24 20:05:05]: Logger started
+[01/02/24 20:05:09]: Unknown event:Communication established
+[01/02/24 20:05:09]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/02/24 20:05:09]: Cycle time set to 0.004s
+[01/02/24 20:05:09]: Simulation cycle time set to 0.1s
+[01/02/24 20:05:09]: Controller IP address could not be updated
+[01/02/24 20:05:09]: STARC : No STARC board detected on PCI.
+[01/02/24 20:05:09]: Mcp = TSimulated
+[01/02/24 20:05:09]: Power shutdown delay set to 0 s
+[01/02/24 20:05:09]: Power hour count = 0:00:00
+[01/02/24 20:05:09]: Mac Address = 24-41-8c-e4-df-bd
+[01/02/24 20:05:09]: COM-PC: server created on all interfaces [5653]
+[01/02/24 20:05:09]: VAL3: s6.8 Feb  9 2010
+[01/02/24 20:05:09]: Option testMode: demo 
+[01/02/24 20:05:09]: Configuration Version: D24266415A 
+[01/02/24 20:05:09]: Machine Number: ? 
+[01/02/24 20:05:09]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[01/02/24 20:05:09]: Arm serial number: ? 
+[01/02/24 20:05:09]: EP: s6.8 Feb  3 2010
+[01/02/24 20:05:09]: SCA: s6.8 Feb  3 2010
+[01/02/24 20:05:09]: PLC: s6.8 Feb  3 2010
+[01/02/24 20:05:09]: New profile : default
+[01/02/24 20:05:10]: COM-PC: create session 127.0.0.1 on port 60834 id=#55431000
+[01/02/24 20:05:10]: Working mode:automatic.
+[01/02/24 20:05:10]: End of arm power shutdown phase.
+[01/02/24 20:05:25]: Settling arm power...
+[01/02/24 20:05:25]: Arm power settled.
+[01/02/24 20:05:25]: Unknown event:motion generator activated
+[01/02/24 20:05:30]: maia_p5 application started
+[01/02/24 20:05:30]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[01/02/24 20:06:06]: maia_p5 application stopped
+[01/02/24 20:06:17]: MCP communication disconnected
+[01/02/24 20:06:17]: Arm power shutdown: working mode change.
+[01/02/24 20:06:17]: Arm power shutdown...
+[01/02/24 20:06:17]: Unknown event:motion generator desactivated
+[01/02/24 23:12:42]: -----------------------------------------------
+[01/02/24 23:12:42]: Logger started
+[01/02/24 23:12:47]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/02/24 23:12:47]: Cycle time set to 0.004s
+[01/02/24 23:12:47]: Simulation cycle time set to 0.1s
+[01/02/24 23:12:47]: Controller IP address could not be updated
+[01/02/24 23:12:47]: STARC : No STARC board detected on PCI.
+[01/02/24 23:12:47]: Power shutdown delay set to 0 s
+[01/02/24 23:12:47]: Power hour count = 0:00:00
+[01/02/24 23:12:47]: Mac Address = 24-41-8c-e4-df-bd
+[01/02/24 23:12:47]: COM-PC: server created on all interfaces [5653]
+[01/02/24 23:12:47]: COM-PC: create session 127.0.0.1 on port 64984 id=#61035384
+[01/02/24 23:12:47]: VAL3: s6.8 Feb  9 2010
+[01/02/24 23:12:47]: Option testMode: demo 
+[01/02/24 23:12:47]: Configuration Version: D24266415A 
+[01/02/24 23:12:47]: Machine Number: ? 
+[01/02/24 23:12:47]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[01/02/24 23:12:47]: Arm serial number: ? 
+[01/02/24 23:12:47]: EP: s6.8 Feb  3 2010
+[01/02/24 23:12:47]: SCA: s6.8 Feb  3 2010
+[01/02/24 23:12:47]: PLC: s6.8 Feb  3 2010
+[01/02/24 23:12:47]: New profile : default
+[01/02/24 23:12:47]: End of arm power shutdown phase.
+[01/02/24 23:12:48]: Mcp = TSimulated
+[01/02/24 23:12:48]: Unknown event:Communication established
+[01/02/24 23:12:48]: Working mode:automatic.
+[01/02/24 23:12:59]: Settling arm power...
+[01/02/24 23:12:59]: Arm power settled.
+[01/02/24 23:13:00]: Unknown event:motion generator activated
+[01/02/24 23:13:11]: maia_p5 application started
+[01/02/24 23:13:11]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[01/02/24 23:13:35]: Unknown event:motion generator desactivated
+[01/02/24 23:13:35]: Arm power shutdown...
+[01/02/24 23:13:36]: End of arm power shutdown phase.
+[01/02/24 23:13:39]: Saving controller context...
+[01/02/24 23:13:39]: Controller temperature: 28°C
+[01/02/24 23:13:39]: CPU temperature: 28°C
+[01/02/24 23:13:40]: MCP communication disconnected
+[01/02/24 23:13:55]: -----------------------------------------------
+[01/02/24 23:13:55]: Logger started
+[01/02/24 23:13:59]: Unknown event:Communication established
+[01/02/24 23:14:00]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/02/24 23:14:00]: Cycle time set to 0.004s
+[01/02/24 23:14:00]: Simulation cycle time set to 0.1s
+[01/02/24 23:14:00]: Controller IP address could not be updated
+[01/02/24 23:14:00]: STARC : No STARC board detected on PCI.
+[01/02/24 23:14:00]: Mcp = TSimulated
+[01/02/24 23:14:00]: Power shutdown delay set to 0 s
+[01/02/24 23:14:00]: Power hour count = 0:00:00
+[01/02/24 23:14:00]: Mac Address = 24-41-8c-e4-df-bd
+[01/02/24 23:14:00]: COM-PC: server created on all interfaces [5653]
+[01/02/24 23:14:00]: VAL3: s6.8 Feb  9 2010
+[01/02/24 23:14:00]: Option testMode: demo 
+[01/02/24 23:14:00]: Configuration Version: D24266415A 
+[01/02/24 23:14:00]: Machine Number: ? 
+[01/02/24 23:14:00]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[01/02/24 23:14:00]: Arm serial number: ? 
+[01/02/24 23:14:00]: EP: s6.8 Feb  3 2010
+[01/02/24 23:14:00]: SCA: s6.8 Feb  3 2010
+[01/02/24 23:14:00]: PLC: s6.8 Feb  3 2010
+[01/02/24 23:14:00]: New profile : default
+[01/02/24 23:14:00]: Working mode:automatic.
+[01/02/24 23:14:01]: End of arm power shutdown phase.
+[01/02/24 23:14:01]: COM-PC: create session 127.0.0.1 on port 64998 id=#61185136
+[01/02/24 23:14:16]: Settling arm power...
+[01/02/24 23:14:16]: Arm power settled.
+[01/02/24 23:14:17]: Unknown event:motion generator activated
+[01/02/24 23:14:21]: maia_p5 application started
+[01/02/24 23:14:21]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[01/02/24 23:15:25]: maia_p5 application stopped
+[01/02/24 23:15:35]: Unknown event:motion generator desactivated
+[01/02/24 23:15:35]: Arm power shutdown...
+[01/02/24 23:15:37]: End of arm power shutdown phase.
+[01/08/24 18:53:06]: -----------------------------------------------
+[01/08/24 18:53:06]: Logger started
+[01/08/24 18:53:10]: Unknown event:Communication established
+[01/08/24 18:53:10]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/08/24 18:53:10]: Cycle time set to 0.004s
+[01/08/24 18:53:10]: Simulation cycle time set to 0.1s
+[01/08/24 18:53:10]: Controller IP address could not be updated
+[01/08/24 18:53:10]: STARC : No STARC board detected on PCI.
+[01/08/24 18:53:10]: Mcp = TSimulated
+[01/08/24 18:53:10]: Power shutdown delay set to 0 s
+[01/08/24 18:53:10]: Power hour count = 0:00:00
+[01/08/24 18:53:10]: Mac Address = 48-22-54-2c-e7-f6
+[01/08/24 18:53:10]: COM-PC: server created on all interfaces [5653]
+[01/08/24 18:53:10]: VAL3: s6.8 Feb  9 2010
+[01/08/24 18:53:10]: Option testMode: demo 
+[01/08/24 18:53:10]: Configuration Version: D24266415A 
+[01/08/24 18:53:10]: Machine Number: ? 
+[01/08/24 18:53:10]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[01/08/24 18:53:10]: Arm serial number: ? 
+[01/08/24 18:53:10]: EP: s6.8 Feb  3 2010
+[01/08/24 18:53:10]: SCA: s6.8 Feb  3 2010
+[01/08/24 18:53:10]: PLC: s6.8 Feb  3 2010
+[01/08/24 18:53:10]: New profile : default
+[01/08/24 18:53:11]: Working mode:automatic.
+[01/08/24 18:53:11]: COM-PC: create session 127.0.0.1 on port 51008 id=#61087800
+[01/08/24 18:53:11]: End of arm power shutdown phase.
+[01/08/24 18:56:05]: -----------------------------------------------
+[01/08/24 18:56:05]: Logger started
+[01/08/24 18:56:09]: Unknown event:Communication established
+[01/08/24 18:56:09]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/08/24 18:56:09]: Cycle time set to 0.004s
+[01/08/24 18:56:09]: Simulation cycle time set to 0.1s
+[01/08/24 18:56:09]: Controller IP address could not be updated
+[01/08/24 18:56:09]: STARC : No STARC board detected on PCI.
+[01/08/24 18:56:09]: Mcp = TSimulated
+[01/08/24 18:56:09]: Power shutdown delay set to 0 s
+[01/08/24 18:56:09]: Power hour count = 0:00:00
+[01/08/24 18:56:09]: Mac Address = 48-22-54-2c-e7-f6
+[01/08/24 18:56:09]: COM-PC: server created on all interfaces [5653]
+[01/08/24 18:56:09]: VAL3: s6.8 Feb  9 2010
+[01/08/24 18:56:09]: Option testMode: demo 
+[01/08/24 18:56:09]: Configuration Version: D24266415A 
+[01/08/24 18:56:09]: Machine Number: ? 
+[01/08/24 18:56:09]: Arm: ts60-S1-D25-L200-floor-R1 floor
+[01/08/24 18:56:09]: Arm serial number: ? 
+[01/08/24 18:56:09]: EP: s6.8 Feb  3 2010
+[01/08/24 18:56:09]: SCA: s6.8 Feb  3 2010
+[01/08/24 18:56:09]: PLC: s6.8 Feb  3 2010
+[01/08/24 18:56:09]: New profile : default
+[01/08/24 18:56:10]: COM-PC: create session 127.0.0.1 on port 51106 id=#60347864
+[01/08/24 18:56:10]: Working mode:automatic.
+[01/08/24 18:56:10]: End of arm power shutdown phase.
+[01/08/24 18:56:36]: Settling arm power...
+[01/08/24 18:56:37]: Arm power settled.
+[01/08/24 18:56:37]: Unknown event:motion generator activated
+[01/08/24 18:56:41]: maia_p5 application started
+[01/08/24 18:56:41]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[01/08/24 18:57:17]: maia_p5 application stopped
+[01/08/24 18:57:21]: Unknown event:motion generator desactivated
+[01/08/24 18:57:22]: Arm power shutdown...
+[01/08/24 18:57:23]: End of arm power shutdown phase.
+[01/08/24 18:57:24]: Saving controller context...
+[01/08/24 18:57:24]: Controller temperature: 28°C
+[01/08/24 18:57:24]: CPU temperature: 28°C

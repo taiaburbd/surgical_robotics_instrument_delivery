@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CellUserOptions>
+  <Controller Name="Controller1">
+    <Application>Disk://maia_p5/maia_p5.pjx</Application>
+  </Controller>
+  <Option Name="DataTreeView">
+    <Nodes>
+      <Node Path="Robotic0512" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\Disk:##maia_p5#maia_p5.pjx" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\Disk:##maia_p5#maia_p5.pjx\pointRs" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\Disk:##maia_p5#maia_p5.pjx\tool" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="CellExplorer">
+    <Nodes>
+      <Node Path="Robotic0512" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\Disk:##maia_p5#maia_p5.pjx" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="GeometryView">
+    <Nodes>
+      <Node Path="Robotic0512" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\maia_p5" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\maia_p5\world[0]" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\maia_p5\world[0]\final_frame" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\maia_p5\world[0]\final_frame\final_frame[0]" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\maia_p5\world[0]\final_frame\final_frame[0]\final_pos" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\maia_p5\world[0]\tool_frame" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\maia_p5\world[0]\tool_frame\tool_frame[0]" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\maia_p5\world[0]\tool_frame\tool_frame[0]\tool_pos" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\maia_p5\world[0]\cal_final" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\maia_p5\world[0]\cal_tool" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\maia_p5\jointRs" IsExpanded="true" />
+      <Node Path="Robotic0512\Controller1\maia_p5\jointRs\home" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="Breakpoints">
+    <Breakpoints />
+  </Option>
+  <Option Name="IOsControlPanel">
+    <Ios />
+  </Option>
+  <Option Name="Watches">
+    <Watches>
+      <Watch Controller="Controller1" Application="Disk://maia_p5/maia_p5.pjx">suction_cup</Watch>
+    </Watches>
+  </Option>
+  <Option Name="ExpressionWatches">
+    <ExpressionWatches>
+      <ExpressionWatch></ExpressionWatch>
+    </ExpressionWatches>
+  </Option>
+  <Option Name="3DView">
+    <_3DView Visible="false" />
+  </Option>
+  <Option Name="SynchronizerMode">
+    <Synchronizers>
+      <Synchronizer Controller="Controller1" Mode="Emulator" />
+    </Synchronizers>
+  </Option>
+  <Option Name="Safety">
+    <Safeties />
+  </Option>
+</CellUserOptions>

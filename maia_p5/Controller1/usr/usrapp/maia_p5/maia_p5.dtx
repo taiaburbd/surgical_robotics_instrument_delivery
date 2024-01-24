@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataList xmlns="DataNameSpace">
+  <aioSection />
+  <boolSection />
+  <configRsSection />
+  <configSection />
+  <dioSection>
+    <dio size="1" name="blowing" public="false" />
+    <dio size="1" name="sucking" public="false" />
+  </dioSection>
+  <frameSection>
+    <frame name="world" public="false">
+      <fFather alias="" name="" fatherIndex="0" />
+      <valueFrame index="0">
+        <tfValue x="0" y="0" z="0" rx="0" ry="0" rz="0" />
+      </valueFrame>
+    </frame>
+    <frame name="cal_frame" public="false">
+      <fFather alias="" name="world" fatherIndex="0" />
+      <valueFrame index="0">
+        <tfValue x="0" y="0" z="0" rx="0" ry="0" rz="0" />
+      </valueFrame>
+    </frame>
+    <frame name="final_frame" public="false">
+      <fFather alias="" name="world" fatherIndex="0" />
+      <valueFrame index="0">
+        <tfValue x="460.962635" y="-154.379019" z="-8.624177" rx="0.998728" ry="-0.001758" rz="-143.215298" />
+      </valueFrame>
+    </frame>
+    <frame name="tool_frame" public="false">
+      <fFather alias="" name="world" fatherIndex="0" />
+      <valueFrame index="0">
+        <tfValue x="204.086824" y="457.395401" z="2.040723" rx="1.984238" ry="0.293689" rz="-91.341423" />
+      </valueFrame>
+    </frame>
+  </frameSection>
+  <jointRsSection>
+    <jointRs name="home" public="false">
+      <valueJointRs index="0">
+        <jointRsValue j1="0" j2="0" j3="0" j4="0" />
+      </valueJointRs>
+    </jointRs>
+  </jointRsSection>
+  <jointSection />
+  <mdescSection>
+    <mdesc name="mNomSpeed" public="true">
+      <valueMdesc index="0">
+        <mdescValue accel="40" vel="40" decel="40" tmax="99999" rmax="99999" blend="joint" leave="50" reach="50" />
+      </valueMdesc>
+    </mdesc>
+  </mdescSection>
+  <numSection>
+    <num name="nVar" public="false">
+      <valueNum value="278" index="0" />
+    </num>
+  </numSection>
+  <pointRsSection>
+    <pointRs name="cal_final" public="false">
+      <pRsFather alias="" name="world" fatherIndex="0" />
+      <valuePointRs index="0">
+        <tpRsValue x="460.962635" y="-154.379019" z="-8.624177" rx="0" ry="0" rz="-130.615411" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+      <valuePointRs index="1">
+        <tpRsValue x="249.40485" y="-312.532238" z="-11.387731" rx="0" ry="0" rz="-130.614435" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+      <valuePointRs index="2">
+        <tpRsValue x="494.565604" y="-242.383794" z="-10.15732" rx="0" ry="0" rz="-130.615655" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+    </pointRs>
+    <pointRs name="final_pos" public="false">
+      <pRsFather alias="" name="final_frame" fatherIndex="0" />
+      <valuePointRs index="0">
+        <tpRsValue x="79.364664" y="98.643118" z="11.134588" rx="0.798849" ry="-0.599436" rz="92.883848" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+      <valuePointRs index="1">
+        <tpRsValue x="135.312331" y="69.336978" z="9.675707" rx="0.798849" ry="-0.599436" rz="-95.340655" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+      <valuePointRs index="2">
+        <tpRsValue x="180.352061" y="95.457874" z="12.652792" rx="0.798849" ry="-0.599436" rz="-85.134708" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+      <valuePointRs index="3">
+        <tpRsValue x="216.627423" y="46.511265" z="8.426287" rx="0.798849" ry="-0.599436" rz="-87.192747" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+    </pointRs>
+    <pointRs name="cal_tool" public="false">
+      <pRsFather alias="" name="world" fatherIndex="0" />
+      <valuePointRs index="0">
+        <tpRsValue x="204.086824" y="457.395401" z="2.040723" rx="0" ry="0" rz="-130.619692" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+      <valuePointRs index="1">
+        <tpRsValue x="201.673737" y="354.404864" z="-1.515043" rx="0" ry="0" rz="-130.616866" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+      <valuePointRs index="2">
+        <tpRsValue x="493.08206" y="436.949468" z="-0.149879" rx="0" ry="0" rz="-130.617068" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+    </pointRs>
+    <pointRs name="tool_pos" public="false">
+      <pRsFather alias="" name="tool_frame" fatherIndex="0" />
+      <valuePointRs index="0">
+        <tpRsValue x="50.677067" y="63.233165" z="6.473752" rx="0.340078" ry="-1.976819" rz="175.627092" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+      <valuePointRs index="1">
+        <tpRsValue x="44.471571" y="119.336366" z="6.573407" rx="0.340078" ry="-1.976819" rz="178.677623" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+      <valuePointRs index="2">
+        <tpRsValue x="52.975534" y="168.712049" z="8.660769" rx="0.340078" ry="-1.976819" rz="176.034334" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+      <valuePointRs index="3">
+        <tpRsValue x="42.349265" y="235.643382" z="8.972831" rx="0.340078" ry="-1.976819" rz="177.142537" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+    </pointRs>
+  </pointRsSection>
+  <pointSection />
+  <sioSection />
+  <stringSection />
+  <toolSection>
+    <tool name="flange" public="false">
+      <tFather alias="" name="" fatherIndex="0" />
+      <valueTool index="0">
+        <ttValue x="0" y="0" z="0" rx="0" ry="0" rz="0" />
+        <io alias="io" name="valve1" ioIndex="0" open="0" close="0" />
+      </valueTool>
+    </tool>
+    <tool name="marker" public="false">
+      <tFather alias="" name="flange" fatherIndex="0" />
+      <valueTool index="0">
+        <ttValue x="60" y="95" z="77" rx="180" ry="0" rz="90" />
+        <io alias="io" name="valve1" ioIndex="0" open="0" close="0" />
+      </valueTool>
+    </tool>
+    <tool name="suction_cup" public="false">
+      <tFather alias="" name="flange" fatherIndex="0" />
+      <valueTool index="0">
+        <ttValue x="0" y="0" z="30" rx="180" ry="0" rz="0" />
+        <io alias="io" name="valve1" ioIndex="0" open="0" close="0" />
+      </valueTool>
+    </tool>
+  </toolSection>
+  <trsfSection />
+</dataList>

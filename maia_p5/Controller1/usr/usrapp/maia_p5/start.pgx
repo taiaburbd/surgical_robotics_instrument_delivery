@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<programList xmlns="ProgramNameSpace">
+  <program name="start" public="false">
+    <description />
+    <paramSection />
+    <localSection />
+    <source>
+      <code>begin
+  // Initialize the userpage and move the cursor to (0,0)
+  userPage()
+  cls()
+  putln("Welcome to the Robotic Project")
+  // define sucking and blowing channels
+  dioLink(sucking,io:bOut0)
+  dioLink(blowing,io:bOut1)
+  // Power the robot and set blowing/sucking channels as "off"
+  enablePower()
+  sucking=false
+  blowing=false
+  // Go to Home
+  putln("Move to home")
+  movej(home[0],suction_cup[0],mNomSpeed)
+  waitEndMove()
+  do
+    // Clear screen and define menu for user interaction
+    cls()
+    putln("Home Position, Please choose a tool:")
+    gotoxy(2,13)
+    put("T1")
+    gotoxy(6,13)
+    put("T2")
+    gotoxy(11,13)
+    put("T3")
+    gotoxy(16,13)
+    put("T4")
+    gotoxy(35,13)
+    put("End")
+    do
+      //Wait for the key
+      nVar=getKey()
+    until(nVar==271 or nVar==272 or nVar==273 or nVar==274 or nVar==278)
+    if nVar!=278
+      gotoxy(0,4)
+      putln("Picking up Instrument")
+      put("Tool chosen:")
+      putln(nVar-270)
+      
+      putln("Approach Plate tool")
+      // Approaches tool_pos position with an offset
+      movej(appro(tool_pos[nVar-271],{0,0,50,0,0,0}),suction_cup[0],mNomSpeed)
+      waitEndMove()
+      
+      putln("Picking a tool up")
+      // Moves to tool_pos position at a slower speed
+      movel(tool_pos[nVar-271],suction_cup[0],mNomSpeed)
+      waitEndMove()
+      putln("Sucking")
+      sucking[0]=true
+      blowing[0]=false
+      delay(1)
+      
+      // Back to appro
+      movej(appro(tool_pos[nVar-271],{0,0,50,0,0,0}),suction_cup[0],mNomSpeed)
+      waitEndMove()
+      
+      putln("Go to destination")
+      // Approaches final_pos position with an offset
+      movej(appro(final_pos[nVar-271],{0,0,50,0,0,0}),suction_cup[0],mNomSpeed)
+      waitEndMove()
+      
+      putln("Releasing a tool")
+      // Moves to final_pos position at a slower speed
+      movel(final_pos[nVar-271],suction_cup[0],mNomSpeed)
+      waitEndMove()
+      putln("Releasing")
+      sucking[0]=false
+      blowing[0]=true
+      delay(1)
+      
+      // Back to appro
+      movej(appro(final_pos[nVar-271],{0,0,50,0,0,0}),suction_cup[0],mNomSpeed)
+      waitEndMove()
+      
+      putln("Move to home")
+      movej(home[0],suction_cup[0],mNomSpeed)
+      waitEndMove()
+      putln("Turn off the blowing")
+      sucking[0]=false
+      blowing[0]=false
+    endIf
+  until(nVar==278)
+  cls()
+    putln("The program is finished")
+end
+
+      </code>
+    </source>
+  </program>
+</programList>
