@@ -22,6 +22,6 @@ This project, titled "Computed Aided Surgery and Medical Robotics," focuses on d
 Images illustrating the system's components and workflow can be found in the repository's `images` folder.
 
 - Referance Images: 
-- ![Tool Delivery System 1](https://github.com/taiaburbd/surgical_robotics_instrument_delivery/blob/main/images/tool_delivery_system_1.png)
-- ![Tool Delivery System 2](https://github.com/taiaburbd/surgical_robotics_instrument_delivery/blob/main/images/tool_delivery_system_2.png)
+![Tool Delivery System 1](https://github.com/taiaburbd/surgical_robotics_instrument_delivery/blob/main/images/tool_delivery_system_1.png)
+![Tool Delivery System 2](https://github.com/taiaburbd/surgical_robotics_instrument_delivery/blob/main/images/tool_delivery_system_2.png)
 
